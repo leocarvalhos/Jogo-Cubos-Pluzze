@@ -32,6 +32,7 @@
   height: 30px;
   background-color: rgb(240, 197, 81);
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .side-bar button:hover {
